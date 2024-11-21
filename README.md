@@ -1,3 +1,6 @@
+
+Linkedin: https://www.linkedin.com/in/mehmet-acikgoz/
+
 Kütüphane Yönetim Sistemi (Library Management System)
 
 Bu proje, kullanıcıların kütüphanede kitapları yönetmelerine, ödünç alma ve iade işlemleri yapmalarına, üyeleri ekleyip silmelerine olanak tanıyan bir Kütüphane Yönetim Sistemi'ni simüle eden bir Java uygulamasıdır. Kullanıcılar, kitaplar ve üyeler üzerinde çeşitli işlemler gerçekleştirebilirler. Proje, basit bir komut satırı arayüzü ile kullanıcı etkileşimi sağlar.
