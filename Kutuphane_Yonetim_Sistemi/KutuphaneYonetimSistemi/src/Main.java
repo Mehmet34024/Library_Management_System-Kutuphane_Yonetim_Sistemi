@@ -8,7 +8,7 @@ public class Main {
     static Uyeler uyeler = new Uyeler();
 
     public static void main(String[] args) {
-        // Başlangıçta birkaç kitap ve üye ekleyelim...
+        // Başlangıçta birkaç kitap ve üye ekleyelim.
         kitaplik.kitapEkle(new Kitap("Savaş ve Barış", "Lev Tolstoy", "24001"));
         kitaplik.kitapEkle(new Kitap("İçimizdeki Şeytan", "Sabahattin Ali", "24002"));
         kitaplik.kitapEkle(new Kitap("Yıldıza Dokunmak", "Sezin Karameşe", "24003"));
