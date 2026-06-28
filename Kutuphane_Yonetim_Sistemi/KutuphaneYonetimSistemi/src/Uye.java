@@ -4,7 +4,7 @@ import java.util.ArrayList;
 class Uye {
     private String isim;                              // Üyenin ismi
     private int uyeNumarasi;                          // Üyenin numarası
-    private ArrayList<OduncKitap> oduncAlinanKitaplar; // Üyenin ödünç aldığı kitaplar listesi
+    private ArrayList<OduncKitap> oduncAlinanKitaplar; // Üyenin ödünç aldığı kitaplar listesi:
 
     // Constructor
     public Uye(String isim, int uyeNumarasi) {
