@@ -3,7 +3,7 @@ import java.util.ArrayList;
 class Uyeler {
     private ArrayList<Uye> uyeListesi = new ArrayList<>();
 
-    // Üye ekleme:
+    // Üye ekleme
     public void uyeEkle(Uye uye) {
         uyeListesi.add(uye);
     }
