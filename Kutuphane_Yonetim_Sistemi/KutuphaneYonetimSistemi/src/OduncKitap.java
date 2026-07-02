@@ -3,7 +3,7 @@ import java.time.LocalDate;
 class OduncKitap {
     private Kitap kitap;              // Ödünç alınan kitap.
     private LocalDate oduncAlmaTarihi;  // Kitap ödünç alındığında tarih.
-    private LocalDate iadeTarihi;      // Kitap iade edildiğinde tarih.
+    private LocalDate iadeTarihi;      // Kitap iade edildiğinde tarih
 
     // Constructor: OduncKitap nesnesi oluşturulurken kitap ve ödünç alma tarihi belirtilir
     public OduncKitap(Kitap kitap, LocalDate oduncAlmaTarihi) {
