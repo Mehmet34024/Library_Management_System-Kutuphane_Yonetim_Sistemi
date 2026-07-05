@@ -31,7 +31,7 @@ class Uyeler {
         }
     }
 
-    // Üye arama
+    // Üye arama:
     public Uye uyeAra(int uyeNumarasi) {
         for (Uye uye : uyeListesi) {
             if (uye.getUyeNumarasi() == uyeNumarasi) {
