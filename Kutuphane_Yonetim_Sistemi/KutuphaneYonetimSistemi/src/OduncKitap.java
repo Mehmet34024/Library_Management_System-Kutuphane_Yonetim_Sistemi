@@ -12,7 +12,7 @@ class OduncKitap {
         this.iadeTarihi = null;  // Başlangıçta iade tarihi null (kitap henüz iade edilmedi)
     }
 
-    // Getterlar
+    // Getterlar:
     public Kitap getKitap() {
         return kitap;  // Ödünç alınan kitabı döndürür
     }
@@ -25,7 +25,7 @@ class OduncKitap {
         return iadeTarihi;  // Kitap iade edilirse iade tarihini döndürür
     }
 
-    // İade tarihi ayarlamak için setter
+    // İade tarihi ayarlamak için setter:
     public void setIadeTarihi(LocalDate iadeTarihi) {
         this.iadeTarihi = iadeTarihi;  // Kitap iade edildiğinde tarihi ayarlar
     }
