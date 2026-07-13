@@ -3,7 +3,7 @@ import java.util.ArrayList;
 class Kitaplik {
     private ArrayList<Kitap> kitapListesi = new ArrayList<>();
 
-    // Kitap ekleme:
+    // Kitap ekleme
     public void kitapEkle(Kitap kitap) {
         kitapListesi.add(kitap);
     }
