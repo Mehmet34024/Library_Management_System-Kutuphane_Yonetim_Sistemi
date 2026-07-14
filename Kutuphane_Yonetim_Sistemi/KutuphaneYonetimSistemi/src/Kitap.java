@@ -3,7 +3,7 @@ class Kitap {
     private String baslik;
     private String yazar;
     private String isbn;
-    private boolean oduncDurumu; // Kitap ödünçte mi?!
+    private boolean oduncDurumu; // Kitap ödünçte mi?
 
     // Constructor
     public Kitap(String baslik, String yazar, String isbn) {
