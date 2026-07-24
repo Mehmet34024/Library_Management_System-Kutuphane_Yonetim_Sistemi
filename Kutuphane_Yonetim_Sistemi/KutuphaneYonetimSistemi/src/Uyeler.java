@@ -8,7 +8,7 @@ class Uyeler {
         uyeListesi.add(uye);
     }
 
-    // Üye silme
+    // Üye silme:
     public boolean uyeSil(int uyeNumarasi) {
         for (Uye uye : uyeListesi) {
             if (uye.getUyeNumarasi() == uyeNumarasi) {
